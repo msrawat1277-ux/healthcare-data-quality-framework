@@ -1,2 +1,2 @@
 # healthcare-data-quality-framework
-SQL-based Healthcare Data Quality Framework implementing duplicate detection, missing value handling, validation checks
+Built a SQL-based Healthcare Data Quality Framework to detect duplicates, handle missing values, perform logical validation checks, and generate KPI analytics, improving reporting reliability and business insights.
